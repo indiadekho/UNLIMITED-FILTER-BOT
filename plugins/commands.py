@@ -248,7 +248,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton("Movies Channel", url="https://t.me/HINDI_HD_MOOVIES"),
-                    InlineKeyboardButton(("Movies Group", url="https://t.me/HindiHdMovies_Group")
+                    InlineKeyboardButton("Movies Group", url="https://t.me/HindiHdMovies_Group")
                 ]
             ]
         ),
