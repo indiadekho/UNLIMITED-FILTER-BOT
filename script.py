@@ -10,33 +10,26 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
-
-
-<b>Basic Commands;</b>
-
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+<b><i>Add me as admin in your group and start filtering :)<i></b>
 
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<b>/add name reply</b>  -  Add filter for name
 
-<code>/del name</code>  -  Delete filter
+<b>/del name</b>  -  Delete filter
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+<b>/delall</b>  -  Delete entire filters (Group Owner Only!)
 
-<code>/viewfilters</code>  -  List all filters in chat
+<b>/viewfilters</b>  -  List all filters in chat
 
 
 <b>Connection Commands;</b>
 
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
+<b>/connect groupid</b>  -  Connect your Group to my PM. 
+You can also simply use, <b>/connect</b> in Groups.
 
-<code>/connections</code>  -  Manage your connections.
+<b>/connections</b>  -  Manage your connections.
 
 
 <b>Extras;</b>
@@ -45,16 +38,13 @@ See <i>/help</i> for commands and more details.</b>
 
 /id  -  Shows ID information
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>© @TroJanzHEX</b>
+<b>© @Urs_BOND</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : HD Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>🧑🏻‍💻Creater : @Urs_Bond</b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
